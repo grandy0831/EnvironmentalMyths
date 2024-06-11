@@ -5,7 +5,7 @@
 #include <DHT.h>
 #include <PubSubClient.h>
 
-#include "password_management.h"  // 包含敏感数据
+#include "password_management.h"   
 
 const char* ssid = SECRET_SSID;
 const char* password = SECRET_PASS;
@@ -60,11 +60,9 @@ void loop() {
     timeClient.update();
     printFormattedTime();
 
-    // 读取温度和湿度
     float t = dht.readTemperature();
     float h = dht.readHumidity();
 
-    // 读取风速
     int sensorValue = analogRead(sensorPin);
     sensorVoltage = sensorValue * voltageConversionConstant;
     if (sensorVoltage <= voltageMin) {
@@ -73,14 +71,12 @@ void loop() {
       windSpeed = (sensorVoltage - voltageMin) * windSpeedMax / (voltageMax - voltageMin);
     }
 
-    // 发送MQTT消息
     if (!isnan(h) && !isnan(t) && !isnan(windSpeed)) {
       char tempStr[50], humStr[50], windSpeedStr[50];
       snprintf(tempStr, sizeof(tempStr), "%.2f", t);
       snprintf(humStr, sizeof(humStr), "%.2f", h);
       snprintf(windSpeedStr, sizeof(windSpeedStr), "%.2f", windSpeed);
 
-      // 打印所有数据到串口监视器
       Serial.print("Temperature: ");
       Serial.print(tempStr);
       Serial.print("°C, Humidity: ");
