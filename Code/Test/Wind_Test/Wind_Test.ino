@@ -1,23 +1,3 @@
-/*
-
-Anemometer Tutorial
-
-This code takes the output from an Adafruit anemometer (product ID 1733) and converts it into a wind speed.
-
-The circuit:
-
-Created 11 November 2014
-By Joe Burg
-Modified 11 November 2014
-By Joe Burg
-
-Hardware instructions and background information can be found at: http://www.hackerscapes.com/2014/11/anemometer/ ‎
-
-Special thanks to Adafruit forum users shirad and adafruit_support_mike for help in trouble shooting code and hardward, including provided code of their own for comparison and inspiration.
-*/
-
-//Setup Variables
-
 const int sensorPin = A0;  //Defines the pin that the anemometer output is connected to
 int sensorValue = 0;       //Variable stores the value direct from the analog pin
 float sensorVoltage = 0;   //Variable that stores the voltage (in Volts) from the anemometer being sent to the analog pin
