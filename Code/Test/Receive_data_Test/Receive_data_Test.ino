@@ -1,12 +1,12 @@
 #include <WiFi.h>
 #include <PubSubClient.h>
 
-const char* ssid = "4958 Hyperoptic Fibre Broadband";
-const char* password = "gPz3kA9JShLJ";
-const char* mqtt_server = "mqtt.cetools.org";
-const int mqtt_port = 1884;
-const char* mqtt_user = "student";
-const char* mqtt_password = "ce2021-mqtt-forget-whale";
+const char* ssid = "yourSSID";
+const char* password = "yourWiFiPassword";
+const char* mqtt_server = "yourMQTTServerAddress";
+const int mqtt_port = 1883;
+const char* mqtt_user = "yourMQTTUsername";
+const char* mqtt_password = "yourMQTTPassword";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
