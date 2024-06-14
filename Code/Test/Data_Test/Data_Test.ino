@@ -29,17 +29,17 @@ WiFiClient espClient;
 PubSubClient client(espClient);
 
 const int sensorPin = A0;
-float voltageConversionConstant = .004882814;
-float voltageMin = .62;
+float voltageConversionConstant = 3.3 / 1023.0;
+float voltageMin = 1.42;
 float windSpeedMin = 0;
-float voltageMax = 2.0;
+float voltageMax = 3.0;
 float windSpeedMax = 32;
 float sensorVoltage = 0;
 float windSpeed = 0;
 
 //Interval time control
 unsigned long lastTime = 0;
-unsigned long interval = 60000;
+unsigned long interval = 10000;
 
 void setup() {
   Serial.begin(115200);
@@ -122,8 +122,10 @@ void reconnect() {
 }
 
 void printFormattedTime() {
-  time_t rawtime = timeClient.getEpochTime();
-  struct tm * ptm = gmtime(&rawtime);
+  time_t utc = timeClient.getEpochTime();
+  time_t local = UK.toLocal(utc);  
+
+  struct tm * ptm = localtime(&local);
   char timeString[40];
   strftime(timeString, sizeof(timeString), "%Y-%m-%d %H:%M:%S", ptm);
   Serial.println(timeString);
