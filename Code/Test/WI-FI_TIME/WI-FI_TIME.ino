@@ -5,8 +5,8 @@
 #include <DHT.h>
 
 // WiFi credentials
-const char* ssid     = "4958 Hyperoptic Fibre Broadband";
-const char* password = "gPz3kA9JShLJ";
+const char* ssid     = "***";
+const char* password = "***";
 
 // Timezone setup for UK (UTC + 0 hours)
 TimeChangeRule BST = {"BST", Last, Sun, Mar, 1, 60};  // British Summer Time
