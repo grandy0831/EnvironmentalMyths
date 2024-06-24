@@ -1,8 +1,10 @@
 #include <WiFi.h>
 #include <PubSubClient.h>
 
-const char* ssid = "4958 Hyperoptic Fibre Broadband";
-const char* password = "gPz3kA9JShLJ";
+const char* ssid = "CE-Hub-Student";
+const char* password = "casa-ce-gagarin-public-service";
+// const char* ssid = "4958 Hyperoptic Fibre Broadband";
+// const char* password = "gPz3kA9JShLJ";
 const char* mqtt_server = "mqtt.cetools.org";
 const int mqtt_port = 1884;
 const char* mqtt_user = "student";
@@ -50,9 +52,9 @@ void reconnect() {
         if (client.connect(clientId.c_str(), mqtt_user, mqtt_password)) {
             Serial.println("connected");
             // Once connected, subscribe to the topic
-            client.subscribe("student/EM1/zczqgch/temperature");
-            client.subscribe("student/EM1/zczqgch/humidity");
-            client.subscribe("student/EM1/zczqgch/windspeed");
+            client.subscribe("student/EM/zczqgch/temperature");
+            client.subscribe("student/EM/zczqgch/humidity");
+            client.subscribe("student/EM/zczqgch/windspeed");
         } else {
             Serial.print("failed, rc=");
             Serial.print(client.state());

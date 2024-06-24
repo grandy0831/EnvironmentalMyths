@@ -1,5 +1,6 @@
 #include <WiFi.h>
 #include <PubSubClient.h>
+#include <Servo.h>
 
 const char* ssid = "4958 Hyperoptic Fibre Broadband";
 const char* password = "gPz3kA9JShLJ";
@@ -10,6 +11,10 @@ const char* mqtt_password = "ce2021-mqtt-forget-whale";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
+Servo angleServo;  
+Servo servoOne;    
+Servo servoTwo;    
+Servo servoThree;  
 
 void setup_wifi() {
     Serial.begin(115200);
@@ -38,20 +43,35 @@ void callback(char* topic, byte* payload, unsigned int length) {
     Serial.print(topic);
     Serial.print("]: ");
     Serial.println(message);
+
+    if (strcmp(topic, "student/EM1/zczqgch/windspeed") == 0) {
+        int windspeed = atoi(message);
+        if (windspeed < 3) {
+            angleServo.write(0);  
+            servoOne.write(0);  
+            servoTwo.writeMicroseconds(1500); 
+            servoThree.writeMicroseconds(1500); 
+        } else if (windspeed >= 3 && windspeed <= 6) {
+            angleServo.write(80);  
+            servoOne.writeMicroseconds(1500); 
+            servoTwo.write(0);  
+            servoThree.writeMicroseconds(1500); 
+        } else if (windspeed > 6) {
+            angleServo.write(160);  
+            servoOne.writeMicroseconds(1500); 
+            servoTwo.writeMicroseconds(1500); 
+            servoThree.write(0);  
+        }
+    }
 }
 
 void reconnect() {
     while (!client.connected()) {
         Serial.print("Attempting MQTT connection...");
-        // Generate a random client ID
         String clientId = "arduinoClient-";
         clientId += String(random(0xffff), HEX);
-        // Attempt to connect
         if (client.connect(clientId.c_str(), mqtt_user, mqtt_password)) {
             Serial.println("connected");
-            // Once connected, subscribe to the topic
-            client.subscribe("student/EM1/zczqgch/temperature");
-            client.subscribe("student/EM1/zczqgch/humidity");
             client.subscribe("student/EM1/zczqgch/windspeed");
         } else {
             Serial.print("failed, rc=");
@@ -66,6 +86,10 @@ void setup() {
     setup_wifi();
     client.setServer(mqtt_server, mqtt_port);
     client.setCallback(callback);
+    angleServo.attach(9);  
+    servoOne.attach(10);   
+    servoTwo.attach(11);   
+    servoThree.attach(12); 
 }
 
 void loop() {
@@ -74,4 +98,3 @@ void loop() {
     }
     client.loop();
 }
-

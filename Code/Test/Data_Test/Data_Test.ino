@@ -29,17 +29,17 @@ WiFiClient espClient;
 PubSubClient client(espClient);
 
 const int sensorPin = A0;
-float voltageConversionConstant = 3.3 / 1023.0;
-float voltageMin = 1.42;
+float voltageConversionConstant = .004882814;
+float voltageMin = 0.62;
 float windSpeedMin = 0;
-float voltageMax = 3.0;
+float voltageMax = 2.0;
 float windSpeedMax = 32;
 float sensorVoltage = 0;
 float windSpeed = 0;
 
 //Interval time control
 unsigned long lastTime = 0;
-unsigned long interval = 10000;
+unsigned long interval = 60000;
 
 void setup() {
   Serial.begin(115200);

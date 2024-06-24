@@ -34,7 +34,7 @@ WiFiClient espClient;
 PubSubClient client(espClient);
 
 unsigned long lastTime = 0;
-unsigned long interval = 10000; // Set the interval time
+unsigned long interval = 30000; // Set the interval time
 
 void IRAM_ATTR detectWind() {
   windCount++;

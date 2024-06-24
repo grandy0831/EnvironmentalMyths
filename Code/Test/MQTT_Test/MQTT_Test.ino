@@ -5,9 +5,9 @@
 #include <DHT.h>
 #include <PubSubClient.h>
 
-#include "password_management.h"
+#include "password_management.h"  // 包含敏感数据
 
-const char* ssid     = SECRET_SSID;
+const char* ssid = SECRET_SSID;
 const char* password = SECRET_PASS;
 const char* mqtt_server = SECRET_MQTTSERVER;
 const int mqtt_port = SECRET_MQTTPORT;
@@ -27,6 +27,15 @@ NTPClient timeClient(ntpUDP, "pool.ntp.org", 0, 60000);
 
 WiFiClient espClient;
 PubSubClient client(espClient);
+
+const int sensorPin = A0;
+float voltageConversionConstant = .004882814;
+float voltageMin = .62;
+float windSpeedMin = 0;
+float voltageMax = 2.0;
+float windSpeedMax = 32;
+float sensorVoltage = 0;
+float windSpeed = 0;
 
 //Interval time control
 unsigned long lastTime = 0;
@@ -51,24 +60,40 @@ void loop() {
     timeClient.update();
     printFormattedTime();
 
+    // 读取温度和湿度
     float t = dht.readTemperature();
     float h = dht.readHumidity();
-    if (!isnan(h) && !isnan(t)) {
-      char temp[50];
-      snprintf(temp, sizeof(temp), "%.2f", t);
-      char hum[50];
-      snprintf(hum, sizeof(hum), "%.2f", h);
 
-      Serial.print("Temperature: ");
-      Serial.print(temp);
-      Serial.print("°C, Humidity: ");
-      Serial.print(hum);
-      Serial.println("%");
-
-      client.publish("student/EM/zczqgch/temperature", temp);
-      client.publish("student/EM/zczqgch/humidity", hum);
+    // 读取风速
+    int sensorValue = analogRead(sensorPin);
+    sensorVoltage = sensorValue * voltageConversionConstant;
+    if (sensorVoltage <= voltageMin) {
+      windSpeed = windSpeedMin;
     } else {
-      Serial.println("Failed to read from DHT sensor!");
+      windSpeed = (sensorVoltage - voltageMin) * windSpeedMax / (voltageMax - voltageMin);
+    }
+
+    // 发送MQTT消息
+    if (!isnan(h) && !isnan(t) && !isnan(windSpeed)) {
+      char tempStr[50], humStr[50], windSpeedStr[50];
+      snprintf(tempStr, sizeof(tempStr), "%.2f", t);
+      snprintf(humStr, sizeof(humStr), "%.2f", h);
+      snprintf(windSpeedStr, sizeof(windSpeedStr), "%.2f", windSpeed);
+
+      // 打印所有数据到串口监视器
+      Serial.print("Temperature: ");
+      Serial.print(tempStr);
+      Serial.print("°C, Humidity: ");
+      Serial.print(humStr);
+      Serial.print("%, Wind Speed: ");
+      Serial.print(windSpeed);
+      Serial.println(" m/s");
+
+      client.publish("student/EM/zczqgch/temperature", tempStr);
+      client.publish("student/EM/zczqgch/humidity", humStr);
+      client.publish("student/EM/zczqgch/windspeed", windSpeedStr);
+    } else {
+      Serial.println("Failed to read from sensors!");
     }
   }
 }
