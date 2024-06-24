@@ -1,14 +1,14 @@
 #include <WiFi.h>
 #include <PubSubClient.h>
 
-const char* ssid = "CE-Hub-Student";
-const char* password = "casa-ce-gagarin-public-service";
-// const char* ssid = "4958 Hyperoptic Fibre Broadband";
-// const char* password = "gPz3kA9JShLJ";
-const char* mqtt_server = "mqtt.cetools.org";
-const int mqtt_port = 1884;
-const char* mqtt_user = "student";
-const char* mqtt_password = "ce2021-mqtt-forget-whale";
+const char* ssid = "***";
+const char* password = "***";
+// const char* ssid = "***";
+// const char* password = "***";
+const char* mqtt_server = "***";
+const int mqtt_port = **;
+const char* mqtt_user = "***";
+const char* mqtt_password = "***";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
