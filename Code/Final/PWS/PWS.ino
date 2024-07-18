@@ -62,7 +62,7 @@ void setup() {
   attachInterrupt(digitalPinToInterrupt(WIND_SPEED_PIN), detectWind, FALLING); // Attach interrupt
 
   // Enable deep sleep with a wakeup time of 60 seconds
-  esp_sleep_enable_timer_wakeup(60 * 1000000);
+  esp_sleep_enable_timer_wakeup(180 * 1000000);
 }
 
 // Calculate wind speed based on sensor interrupts
