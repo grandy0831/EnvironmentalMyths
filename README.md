@@ -32,4 +32,30 @@ The Environmental Myths project brings together ancient Chinese myths and modern
   - Utilises ESP32 deep sleep mode to significantly reduce power consumption during idle times, ensuring long-term deployment without frequent maintenance.
 
 
+## Artistic Installation Device Design
+
+### Hardware Assembly
+- **Controller**: Utilises Arduino GIGA R1 WI-FI for robust control, featuring an extensive number of GPIOs and dedicated connectors.
+- **Servo Motors**:
+  - Three continuous rotation servos to control the movements of characters on the stage.
+  - One 25kg torque servo for angular control, tasked with switching between different scenes.
+- **Display**:
+  - Integrates a GIGA Display Shield to introduce and explain each scene.
+- **Presence Detection**:
+  - Employs a PIR sensor to detect the presence of viewers, activating the scene's movements when someone is nearby.
+
+### Code Implementation
+- **Graphics and Video**:
+  - Uses ArduinoGraphics and Arduino_H7_Video.h libraries to display images.
+- **Connectivity**:
+  - Connects to a MQTT server via WI-FI to receive data from the weather station.
+- **Actuation**:
+  - Controls the servos based on received environmental data to switch scenes dynamically as environmental conditions change.
+
+### Enclosure Design
+- **Stage Design**:
+  - Entirely original design created in FUSION360 for a rotatable stage that transitions between three scenes.
+- **Manufacturing**:
+  - Constructed using 3D printing, assembling the multi-scene stage prototype for interactive display.
+
 
