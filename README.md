@@ -58,8 +58,8 @@ The Environmental Myths project brings together ancient Chinese myths and modern
 - **Code Repository**: [Access the code here](https://github.com/grandy0831/EnvironmentalMyths/tree/main/Code/Final/PWS)
 - **Enclosure Printing Model**: [Download the 3D model here](https://www.thingiverse.com/thing:3615016#google_vignette)
 - **Internal Setup Images**:
-<img src="[![IMG_4694](https://github.com/user-attachments/assets/7573953d-622d-4e7f-a54f-7c176662f6da)]" width="300" height="200" alt="Internal Setup Images1">
-<img src="[![IMG_4558](https://github.com/user-attachments/assets/865a1905-652c-4a26-90ec-eba6c6549618)]" width="300" height="200" alt="Internal Setup Images2">
+<img src="https://github.com/user-attachments/assets/0e6928a6-5b1b-4136-965b-02213681f98c" width="300" alt="IMG_4558">
+<img src="https://github.com/user-attachments/assets/79ccb241-1f9c-489c-b799-2e3f55674fdf" width="300" alt="IMG_4694">
 
 
 #### Artistic Installation Setup:
