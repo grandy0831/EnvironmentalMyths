@@ -48,4 +48,30 @@ The Environmental Myths project brings together ancient Chinese myths and modern
   - **Stage Design**: Entirely original design created in FUSION360 for a rotatable stage that transitions between three scenes.
   - **Manufacturing**: Constructed using 3D printing, assembling the multi-scene stage prototype for interactive display.
 
+## Installation Guide
+
+### Hardware Installation Steps
+
+#### Environmental Monitoring Station Setup:
+- **Hardware Connection Diagram**: [Link to the diagram](#)
+- **Code Repository**: [Access the code here](#)
+- **Enclosure Printing Model**: [Download the 3D model here](#)
+- **Internal Setup Images**: Showcasing the internal setup of the station.
+- **Deployment Photos**: Images of the station deployed in the field.
+
+#### Artistic Installation Setup:
+- **Layer Model Functionality**:
+  - **Top Layer (L0)**: Combines three devices.
+  - **Scene Display (L1-1)**: Details the exhibition of scenes.
+  - **Continuous Rotation Servo Space (L1-2)**: Houses the internal mechanics.
+  - **Rotation Platform (L2-1)**: Supports scene rotation, allowing space for wiring.
+  - **Central Servo Fixation (L2-1)**: Holds the central servo controlling stage rotation.
+  - **Display and Controls (L2-2-1, L2-2-2, L2-2-3)**: Accommodates the display, PIR sensor, switches, power sockets, and space for physical components and wiring.
+- **Model Links**: [Access models here](#)
+- **Assembly Images by Layers**: Visual guides for each layer's assembly.
+- **Final Device Presentation**: Image of the fully assembled device.
+
+#### Important Notes:
+- Bullet points detailing critical considerations or warnings during the installation process.
+
 
