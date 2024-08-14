@@ -68,7 +68,7 @@ The Environmental Myths project brings together ancient Chinese myths and modern
   - **Rotation Platform (L2-1)**: Supports scene rotation, allowing space for wiring.
   - **Central Servo Fixation (L2-1)**: Holds the central servo controlling stage rotation.
   - **Display and Controls (L2-2-1, L2-2-2, L2-2-3)**: Accommodates the display, PIR sensor, switches, power sockets, and space for physical components and wiring.
-- **Model Links**: [Access models here](#)
+- **Model Links**: [Access models here](https://github.com/grandy0831/EnvironmentalMyths/tree/main/Model/STAGE)
 - **Assembly Images by Layers**: Visual guides for each layer's assembly.
 - **Final Device Presentation**: Image of the fully assembled device.
 
