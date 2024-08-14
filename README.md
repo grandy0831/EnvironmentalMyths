@@ -16,7 +16,7 @@ The Environmental Myths project brings together ancient Chinese myths and modern
 ### Personal Weather Station Design
 - **Sensor Selection**
   - DHT22 for humidity and temperature measurement.
-  - Pulse Output Wind Speed Sensor for wind velocity detection.
+  - Pulse Output Wind Speed Sensor for wind speed detection.
   
 - **Hardware Assembly**
   - Powered by a 3.7V 1000mAh rechargeable lithium polymer battery.
