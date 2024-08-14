@@ -57,8 +57,9 @@ The Environmental Myths project brings together ancient Chinese myths and modern
 - **Hardware Connection Diagram**: [Link to the diagram](#)
 - **Code Repository**: [Access the code here](https://github.com/grandy0831/EnvironmentalMyths/tree/main/Code/Final/PWS)
 - **Enclosure Printing Model**: [Download the 3D model here](https://www.thingiverse.com/thing:3615016#google_vignette)
-- **Internal Setup Images**: Showcasing the internal setup of the station.
-- **Deployment Photos**: Images of the station deployed in the field.
+- **Internal Setup Images**:
+<img src="[https://github.com/user-attachments/assets/78ffc689-70d5-43f4-8728-3e57cc9d1497]" width="300" height="200" alt="Internal Setup Images1">
+<img src="[https://github.com/user-attachments/assets/2b32a8d6-f190-4ec2-a884-e5b7998bfeb5]" width="300" height="200" alt="Internal Setup Images1">
 
 #### Artistic Installation Setup:
 - **Layer Model Functionality**:
