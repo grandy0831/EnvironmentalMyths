@@ -1,5 +1,5 @@
 # Environmental Myths: The Fusion of Ancient Mythology and Modern Technology
-![c6b02fe9f156e05483c8268d89080cd7](https://github.com/user-attachments/assets/c1340e3f-8b4a-4df8-960b-6ceb3d8d024e)
+![IMG_5311 2](https://github.com/user-attachments/assets/1977df56-4330-4e82-9a12-923fb8fb6037)
 
 ## Project Overview
 The Environmental Myths project brings together ancient Chinese myths and modern technology to demonstrate how ancient people interpreted natural phenomena. Utilising sensors to monitor temperature, humidity, and wind, it transforms this environmental data into dynamic displays through artistic installations featuring mechanical structures. This innovative approach not only educates the public about traditional culture and environmental changes but also revitalises ancient stories, fostering an appreciation for cultural heritage and environmental science.
