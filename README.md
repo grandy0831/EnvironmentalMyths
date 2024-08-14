@@ -56,7 +56,7 @@ The Environmental Myths project brings together ancient Chinese myths and modern
 #### Environmental Monitoring Station Setup:
 - **Hardware Connection Diagram**: [Link to the diagram](#)
 - **Code Repository**: [Access the code here](#)
-- **Enclosure Printing Model**: [Download the 3D model here](#)
+- **Enclosure Printing Model**: [Download the 3D model here](https://www.thingiverse.com/thing:3615016#google_vignette)
 - **Internal Setup Images**: Showcasing the internal setup of the station.
 - **Deployment Photos**: Images of the station deployed in the field.
 
