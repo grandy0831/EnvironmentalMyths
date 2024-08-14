@@ -13,8 +13,6 @@ The Environmental Myths project brings together ancient Chinese myths and modern
 
 ## Technical Details
 
-## Technical Details
-
 ### Personal Weather Station Design
 - **Sensor Selection**
   - DHT22 for humidity and temperature measurement.
