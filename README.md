@@ -1,7 +1,7 @@
 # Environmental Myths: The Fusion of Ancient Mythology and Modern Technology
 
 ## Introduction
-Ancient peoples employed mythological narratives to interpret natural phenomena, which not only reflected their understanding of the world but also embodied rich cultural values and deep philosophical insights. These stories have shaped human worldviews and values over centuries. Despite the precision of modern science in explaining natural phenomena, the significance of ancient interpretations should not be overlooked or forgotten. By integrating modern environmental sensor technology, real-time environmental data such as temperature, humidity, and wind speed can be monitored. This data not only offers scientific explanations for natural phenomena but also merges with ancient myths to reinterpret these old stories through a new perspective and form, rejuvenating them in contemporary society.
+Ancient peoples used mythological stories to explain natural phenomena, which not only reflected their understanding of the world but also contained rich cultural values and deep philosophical thinking. These stories shaped people's worldviews and values to some extent. The development of modern science has provided a precise scientific basis for understanding natural phenomena, yet this does not mean that we should ignore or forget those ancient interpretations and stories. By integrating modern environmental sensor technology, we can monitor and obtain environmental data in real time. This data not only scientifically explains natural phenomena but also merges with ancient myths, reinterpreting these old stories in new perspectives and forms, bringing them back to life in contemporary society.
 
 ## Research Questions
 **Main Question:**
