@@ -54,13 +54,17 @@ The Environmental Myths project brings together ancient Chinese myths and modern
 ### Hardware Installation Steps
 
 #### Environmental Monitoring Station Setup:
-- **Hardware Connection Diagram**: [Link to the diagram](#)
+- **Hardware Connection Diagram**:
+![PWS_bb](https://github.com/user-attachments/assets/dcd6bd3d-b52d-43ce-8784-afbd160a0db7)
 - **Code Repository**: [Access the code here](https://github.com/grandy0831/EnvironmentalMyths/tree/main/Code/Final/PWS)
 - **Enclosure Printing Model**: [Download the 3D model here](https://www.thingiverse.com/thing:3615016#google_vignette)
 - **Internal Setup Images**:
 
 
 #### Artistic Installation Setup:
+- **Hardware Connection Diagram**:
+![stage_bb](https://github.com/user-attachments/assets/07273b5f-267d-4651-b4f8-7be0fd7f8e24)
+
 - **Layer Model Functionality**:
   - **Top Layer (L0)**: Combines three devices.
   - **Scene Display (L1-1)**: Details the exhibition of scenes.
