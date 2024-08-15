@@ -86,7 +86,6 @@ The Environmental Myths project brings together ancient Chinese myths and modern
 - **Model Links**: [Access models here](https://github.com/grandy0831/EnvironmentalMyths/tree/main/Model/STAGE)
 - **Assembly Images by Layers**: Visual guides for each layer's assembly.
 - **Final Device Presentation**:
-<img src="https://github.com/user-attachments/assets/decd7a4b-506a-4040-80a3-0a8d1578b86b" width="260" alt="IMG_5332">
 <img src="https://github.com/user-attachments/assets/5f072f3f-1f9c-4695-ac01-a5b150376b31" width="260" alt="IMG_5333">
 <img src="https://github.com/user-attachments/assets/5ff41017-0095-45d4-99ee-59d586f4c953" width="260" alt="IMG_5334">
 <img src="https://github.com/user-attachments/assets/ec52f5a7-406d-4aeb-af49-7eceeb0e8ad2" width="260" alt="IMG_5335">
