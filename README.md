@@ -101,10 +101,7 @@ The Environmental Myths project brings together ancient Chinese myths and modern
 
 ### Art Installation Setup
 - **Scene Stage Deployment**: Photographs of the scene stage setup at the exhibition site.
-[c6b02fe9f156e05483c8268d89080cd7](https://github.com/user-attachments/assets/802dfed4-387e-4af5-87ab-866f59adbb20)
-![IMG_5301 2](https://github.com/user-attachments/assets/0ac62485-b21d-4492-ae9c-50bfb7d06b65)
-![IMG_5302 2](https://github.com/user-attachments/assets/e3df42fe-dd53-40ed-ba7f-0484f394e9f7)
-![IMG_5305 2](https://github.com/user-attachments/assets/e509eff5-1a4f-4458-9d9c-1c9828d4c3ca)
+![c6b02fe9f156e05483c8268d89080cd7](https://github.com/user-attachments/assets/802dfed4-387e-4af5-87ab-866f59adbb20)
 
 - **Artistic Device Introduction**: A detailed link to further information about the artistic installation.
   [Learn more about the artistic installation](https://environmentalmyths.com/myths)
