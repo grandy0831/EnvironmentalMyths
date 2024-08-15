@@ -71,15 +71,15 @@ The Environmental Myths project brings together ancient Chinese myths and modern
 - **Model Links**: [Access models here](https://github.com/grandy0831/EnvironmentalMyths/tree/main/Model/STAGE)
 - **Assembly Images by Layers**: Visual guides for each layer's assembly.
 - **Final Device Presentation**:
-<img src="https://github.com/user-attachments/assets/decd7a4b-506a-4040-80a3-0a8d1578b86b" width="300" alt="IMG_5332">
-<img src="https://github.com/user-attachments/assets/5f072f3f-1f9c-4695-ac01-a5b150376b31" width="300" alt="IMG_5333">
-<img src="https://github.com/user-attachments/assets/5ff41017-0095-45d4-99ee-59d586f4c953" width="300" alt="IMG_5334">
-<img src="https://github.com/user-attachments/assets/ec52f5a7-406d-4aeb-af49-7eceeb0e8ad2" width="300" alt="IMG_5335">
-<img src="https://github.com/user-attachments/assets/d2c72353-e2b4-4c4b-b0c6-366e5314b58a" width="300" alt="IMG_5336">
-<img src="https://github.com/user-attachments/assets/b11ad1e6-8b01-4978-b83a-279a7178badc" width="300" alt="IMG_5337">
-<img src="https://github.com/user-attachments/assets/d1a08ef6-c305-4ea9-8716-4c738f78c9e4" width="300" alt="IMG_5338">
-<img src="https://github.com/user-attachments/assets/7cd1bc4a-1826-4f67-8bad-02c26242024c" width="300" alt="IMG_5339">
-<img src="https://github.com/user-attachments/assets/d9bda0c4-0513-44ba-a8f9-1b07973aa366" width="300" alt="IMG_5340">
+<img src="https://github.com/user-attachments/assets/decd7a4b-506a-4040-80a3-0a8d1578b86b" width="280" alt="IMG_5332">
+<img src="https://github.com/user-attachments/assets/5f072f3f-1f9c-4695-ac01-a5b150376b31" width="280" alt="IMG_5333">
+<img src="https://github.com/user-attachments/assets/5ff41017-0095-45d4-99ee-59d586f4c953" width="280" alt="IMG_5334">
+<img src="https://github.com/user-attachments/assets/ec52f5a7-406d-4aeb-af49-7eceeb0e8ad2" width="280" alt="IMG_5335">
+<img src="https://github.com/user-attachments/assets/d2c72353-e2b4-4c4b-b0c6-366e5314b58a" width="280" alt="IMG_5336">
+<img src="https://github.com/user-attachments/assets/b11ad1e6-8b01-4978-b83a-279a7178badc" width="280" alt="IMG_5337">
+<img src="https://github.com/user-attachments/assets/d1a08ef6-c305-4ea9-8716-4c738f78c9e4" width="280" alt="IMG_5338">
+<img src="https://github.com/user-attachments/assets/7cd1bc4a-1826-4f67-8bad-02c26242024c" width="280" alt="IMG_5339">
+<img src="https://github.com/user-attachments/assets/d9bda0c4-0513-44ba-a8f9-1b07973aa366" width="280" alt="IMG_5340">
 
 
 
