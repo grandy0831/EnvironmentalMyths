@@ -59,16 +59,8 @@ The Environmental Myths project brings together ancient Chinese myths and modern
 - **Code Repository**: [Access the code here](https://github.com/grandy0831/EnvironmentalMyths/tree/main/Code/Final/PWS)
 - **Enclosure Printing Model**: [Download the 3D model here](https://www.thingiverse.com/thing:3615016#google_vignette)
 - **Internal Setup Images**:
-<img src="https://github.com/user-attachments/assets/d07e9bf2-e2ca-4507-b2cf-7f026d0e0076" width="250" alt="5071723710176_ pic">
-<img src="https://github.com/user-attachments/assets/562404f4-013a-4e6c-8aaa-eee9f4122167" width="250" alt="5081723710177_ pic">
-<img src="https://github.com/user-attachments/assets/c4e32ea6-5a9a-416a-9431-bff24578810a" width="250" alt="5091723710178_ pic">
-<img src="https://github.com/user-attachments/assets/55fa6ffd-47fe-4a89-92a2-8f9d03b4da02" width="250" alt="5101723710179_ pic">
-<img src="https://github.com/user-attachments/assets/c02b169a-136f-466b-942d-210fac8c861b" width="250" alt="5111723710180_ pic">
-<img src="https://github.com/user-attachments/assets/7c26be21-2c2c-4fee-89af-cdfc3c075acb" width="250" alt="5121723710181_ pic">
-<img src="https://github.com/user-attachments/assets/66715766-66c9-42a6-8657-4fdb8dea157d" width="250" alt="5131723710182_ pic">
-<img src="https://github.com/user-attachments/assets/9cc03147-33be-48c6-888f-ffc7ca5ab338" width="250" alt="5151723710184_ pic">
-<img src="https://github.com/user-attachments/assets/9f625d55-0b51-461a-a433-609364434282" width="250" alt="5161723710185_ pic">
-<img src="https://github.com/user-attachments/assets/22009965-1802-44fb-a022-ddf64c226ea0" width="250" alt="5171723710186_ pic">
+<img src="https://github.com/user-attachments/assets/55fa6ffd-47fe-4a89-92a2-8f9d03b4da02" width="300" alt="5101723710179_ pic">
+
 
 
 
