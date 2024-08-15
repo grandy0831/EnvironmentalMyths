@@ -58,10 +58,6 @@ The Environmental Myths project brings together ancient Chinese myths and modern
 - **Code Repository**: [Access the code here](https://github.com/grandy0831/EnvironmentalMyths/tree/main/Code/Final/PWS)
 - **Enclosure Printing Model**: [Download the 3D model here](https://www.thingiverse.com/thing:3615016#google_vignette)
 - **Internal Setup Images**:
-<img src="https://github.com/user-attachments/assets/0e6928a6-5b1b-4136-965b-02213681f98c" width="300" alt="IMG_4558">
-<img src="https://github.com/user-attachments/assets/79ccb241-1f9c-489c-b799-2e3f55674fdf" width="300" alt="IMG_4694">
-<img src="https://github.com/user-attachments/assets/eb36a868-5c82-4ad6-bcfa-b3c888e554c4" width="300" alt="IMG_4558">
-![IMG_4558](https://github.com/user-attachments/assets/616b53c0-525c-497a-9854-62cc1088074c)
 
 
 #### Artistic Installation Setup:
@@ -74,7 +70,17 @@ The Environmental Myths project brings together ancient Chinese myths and modern
   - **Display and Controls (L2-2-1, L2-2-2, L2-2-3)**: Accommodates the display, PIR sensor, switches, power sockets, and space for physical components and wiring.
 - **Model Links**: [Access models here](https://github.com/grandy0831/EnvironmentalMyths/tree/main/Model/STAGE)
 - **Assembly Images by Layers**: Visual guides for each layer's assembly.
-- **Final Device Presentation**: Image of the fully assembled device.
+- **Final Device Presentation**:
+![IMG_5332](https://github.com/user-attachments/assets/decd7a4b-506a-4040-80a3-0a8d1578b86b)
+![IMG_5333](https://github.com/user-attachments/assets/5f072f3f-1f9c-4695-ac01-a5b150376b31)
+![IMG_5334](https://github.com/user-attachments/assets/5ff41017-0095-45d4-99ee-59d586f4c953)
+![IMG_5335](https://github.com/user-attachments/assets/ec52f5a7-406d-4aeb-af49-7eceeb0e8ad2)
+![IMG_5336](https://github.com/user-attachments/assets/d2c72353-e2b4-4c4b-b0c6-366e5314b58a)
+![IMG_5337](https://github.com/user-attachments/assets/b11ad1e6-8b01-4978-b83a-279a7178badc)
+![IMG_5338](https://github.com/user-attachments/assets/d1a08ef6-c305-4ea9-8716-4c738f78c9e4)
+![IMG_5339](https://github.com/user-attachments/assets/7cd1bc4a-1826-4f67-8bad-02c26242024c)
+![IMG_5340](https://github.com/user-attachments/assets/d9bda0c4-0513-44ba-a8f9-1b07973aa366)
+
 
 #### Important Notes:
 - Bullet points detailing critical considerations or warnings during the installation process.
