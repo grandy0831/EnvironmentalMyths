@@ -60,6 +60,8 @@ The Environmental Myths project brings together ancient Chinese myths and modern
 - **Internal Setup Images**:
 <img src="https://github.com/user-attachments/assets/0e6928a6-5b1b-4136-965b-02213681f98c" width="300" alt="IMG_4558">
 <img src="https://github.com/user-attachments/assets/79ccb241-1f9c-489c-b799-2e3f55674fdf" width="300" alt="IMG_4694">
+<img src="https://github.com/user-attachments/assets/eb36a868-5c82-4ad6-bcfa-b3c888e554c4" width="300" alt="IMG_4558">
+![IMG_4558](https://github.com/user-attachments/assets/616b53c0-525c-497a-9854-62cc1088074c)
 
 
 #### Artistic Installation Setup:
