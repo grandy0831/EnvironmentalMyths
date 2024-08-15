@@ -100,12 +100,12 @@ The Environmental Myths project brings together ancient Chinese myths and modern
 
 
 ## Deployment and Exhibition
-![5231723710192_ pic](https://github.com/user-attachments/assets/2a8e3169-6f5c-4a4a-895e-7cdf92ef5a15)
-![5241723710193_ pic](https://github.com/user-attachments/assets/d3393fb9-2b0f-4228-9a41-9bb60e36a6e4)
-![5261723710196_ pic](https://github.com/user-attachments/assets/beebdeff-c6b7-444e-83ab-64de6685faa9)
 
 ### Weather Station Deployment
 - **Deployment Photos**:
+<img src="https://github.com/user-attachments/assets/2a8e3169-6f5c-4a4a-895e-7cdf92ef5a15" width="260" alt="5231723710192_ pic">
+<img src="https://github.com/user-attachments/assets/d3393fb9-2b0f-4228-9a41-9bb60e36a6e4" width="260" alt="5241723710193_ pic">
+<img src="https://github.com/user-attachments/assets/beebdeff-c6b7-444e-83ab-64de6685faa9" width="260" alt="5261723710196_ pic">
 
 - **Operational Showcase**:
 ![5031723217820_ pic](https://github.com/user-attachments/assets/dbe966c7-5353-4851-8843-a26cb2b585b5)
