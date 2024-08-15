@@ -70,11 +70,22 @@ The Environmental Myths project brings together ancient Chinese myths and modern
   - **Top Layer (L0)**: Combines three devices.
   - **Scene Display (L1-1)**: Details the exhibition of scenes.
   - **Continuous Rotation Servo Space (L1-2)**: Houses the internal mechanics.
+  ![5331723711250_ pic](https://github.com/user-attachments/assets/e412dfb8-10bc-44a4-be69-d6bb3a46d874)
+
   - **Rotation Platform (L2-1)**: Supports scene rotation, allowing space for wiring.
-  - **Central Servo Fixation (L2-1)**: Holds the central servo controlling stage rotation.
+  ![5321723711248_ pic](https://github.com/user-attachments/assets/6be004a9-d969-4c26-9510-2d5d72bb0da6)
+
+  - **Central Servo Fixation (L2-1.5)**: Holds the central servo controlling stage rotation.
+  ![5341723711592_ pic](https://github.com/user-attachments/assets/1439c55e-5892-4c79-bcf1-83b46f6348ed)
+
   - **Display and Controls (L2-2-1, L2-2-2, L2-2-3)**: Accommodates the display, PIR sensor, switches, power sockets, and space for physical components and wiring.
+  ![5311723711247_ pic_thumb](https://github.com/user-attachments/assets/0ed8215a-b9df-49d9-8043-d9736fd5211c)
+
 - **Model Links**: [Access models here](https://github.com/grandy0831/EnvironmentalMyths/tree/main/Model/STAGE)
-- **Assembly Images by Layers**: Visual guides for each layer's assembly.
+- **Assembly Images by Layers**:
+  ![5281723711241_ pic](https://github.com/user-attachments/assets/74b3aa07-1b9f-4f83-a329-33b8eb8f2e7c)
+  ![5291723711243_ pic](https://github.com/user-attachments/assets/4a5bf1ff-c87d-4989-9a2e-bf9e0227ffb8)
+
 - **Final Device Presentation**:
 <img src="https://github.com/user-attachments/assets/decd7a4b-506a-4040-80a3-0a8d1578b86b" width="260" alt="IMG_5332">
 <img src="https://github.com/user-attachments/assets/5f072f3f-1f9c-4695-ac01-a5b150376b31" width="260" alt="IMG_5333">
