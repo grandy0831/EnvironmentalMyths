@@ -79,7 +79,8 @@ The Environmental Myths project brings together ancient Chinese myths and modern
   ![5341723711592_ pic](https://github.com/user-attachments/assets/1439c55e-5892-4c79-bcf1-83b46f6348ed)
 
   - **Display and Controls (L2-2-1, L2-2-2, L2-2-3)**: Accommodates the display, PIR sensor, switches, power sockets, and space for physical components and wiring.
-  ![5311723711247_ pic_thumb](https://github.com/user-attachments/assets/0ed8215a-b9df-49d9-8043-d9736fd5211c)
+  ![5311723711247_ pic](https://github.com/user-attachments/assets/cfe71bc4-a685-4fbb-9ea8-b8060a4231db)
+
 
 - **Model Links**: [Access models here](https://github.com/grandy0831/EnvironmentalMyths/tree/main/Model/STAGE)
 - **Assembly Images by Layers**:
