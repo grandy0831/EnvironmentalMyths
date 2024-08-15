@@ -87,7 +87,7 @@ The Environmental Myths project brings together ancient Chinese myths and modern
   ![5281723711241_ pic](https://github.com/user-attachments/assets/74b3aa07-1b9f-4f83-a329-33b8eb8f2e7c)
   ![5291723711243_ pic](https://github.com/user-attachments/assets/4a5bf1ff-c87d-4989-9a2e-bf9e0227ffb8)
 
-- **Final Device Presentation**:
+- **Final Device Scenes Presentation**:
 <img src="https://github.com/user-attachments/assets/decd7a4b-506a-4040-80a3-0a8d1578b86b" width="260" alt="IMG_5332">
 <img src="https://github.com/user-attachments/assets/5f072f3f-1f9c-4695-ac01-a5b150376b31" width="260" alt="IMG_5333">
 <img src="https://github.com/user-attachments/assets/5ff41017-0095-45d4-99ee-59d586f4c953" width="260" alt="IMG_5334">
@@ -99,15 +99,14 @@ The Environmental Myths project brings together ancient Chinese myths and modern
 <img src="https://github.com/user-attachments/assets/d9bda0c4-0513-44ba-a8f9-1b07973aa366" width="260" alt="IMG_5340">
 
 
-
-#### Important Notes:
-- Bullet points detailing critical considerations or warnings during the installation process.
-
 ## Deployment and Exhibition
+![5231723710192_ pic](https://github.com/user-attachments/assets/2a8e3169-6f5c-4a4a-895e-7cdf92ef5a15)
+![5241723710193_ pic](https://github.com/user-attachments/assets/d3393fb9-2b0f-4228-9a41-9bb60e36a6e4)
+![5261723710196_ pic](https://github.com/user-attachments/assets/beebdeff-c6b7-444e-83ab-64de6685faa9)
 
 ### Weather Station Deployment
-- **Deployment Photos**: Visual documentation of the weather station setup in its operational environment. 
-  ![Deployment Photo](#link-to-deployment-photo)
+- **Deployment Photos**:
+
 - **Operational Showcase**:
 ![5031723217820_ pic](https://github.com/user-attachments/assets/dbe966c7-5353-4851-8843-a26cb2b585b5)
 
