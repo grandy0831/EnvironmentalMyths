@@ -59,7 +59,7 @@ The Environmental Myths project brings together ancient Chinese myths and modern
 - **Code Repository**: [Access the code here](https://github.com/grandy0831/EnvironmentalMyths/tree/main/Code/Final/PWS)
 - **Enclosure Printing Model**: [Download the 3D model here](https://www.thingiverse.com/thing:3615016#google_vignette)
 - **Internal Setup Images**:
-![5101723710179_ pic](https://github.com/user-attachments/assets/c78c8063-e823-4442-aaf0-00e4306b8854)
+<img src="https://github.com/user-attachments/assets/c78c8063-e823-4442-aaf0-00e4306b8854" width="800" alt="5101723710179_ pic">
 
 
 #### Artistic Installation Setup:
@@ -70,22 +70,20 @@ The Environmental Myths project brings together ancient Chinese myths and modern
   - **Top Layer (L0)**: Combines three devices.
   - **Scene Display (L1-1)**: Details the exhibition of scenes.
   - **Continuous Rotation Servo Space (L1-2)**: Houses the internal mechanics.
-  ![5331723711250_ pic](https://github.com/user-attachments/assets/e412dfb8-10bc-44a4-be69-d6bb3a46d874)
+<img src="https://github.com/user-attachments/assets/e412dfb8-10bc-44a4-be69-d6bb3a46d874" width="800" alt="5331723711250_ pic">
 
   - **Rotation Platform (L2-1)**: Supports scene rotation, allowing space for wiring.
-  ![5321723711248_ pic](https://github.com/user-attachments/assets/6be004a9-d969-4c26-9510-2d5d72bb0da6)
-
+<img src="https://github.com/user-attachments/assets/6be004a9-d969-4c26-9510-2d5d72bb0da6" width="800" alt="5321723711248_ pic">
   - **Central Servo Fixation (L2-1.5)**: Holds the central servo controlling stage rotation.
-  ![5341723711592_ pic](https://github.com/user-attachments/assets/1439c55e-5892-4c79-bcf1-83b46f6348ed)
-
+<img src="https://github.com/user-attachments/assets/1439c55e-5892-4c79-bcf1-83b46f6348ed" width="800" alt="5341723711592_ pic">
   - **Display and Controls (L2-2-1, L2-2-2, L2-2-3)**: Accommodates the display, PIR sensor, switches, power sockets, and space for physical components and wiring.
-  ![5311723711247_ pic](https://github.com/user-attachments/assets/cfe71bc4-a685-4fbb-9ea8-b8060a4231db)
-
+<img src="https://github.com/user-attachments/assets/cfe71bc4-a685-4fbb-9ea8-b8060a4231db" width="800" alt="5311723711247_ pic">
 
 - **Model Links**: [Access models here](https://github.com/grandy0831/EnvironmentalMyths/tree/main/Model/STAGE)
 - **Assembly Images by Layers**:
-  ![5281723711241_ pic](https://github.com/user-attachments/assets/74b3aa07-1b9f-4f83-a329-33b8eb8f2e7c)
-  ![5291723711243_ pic](https://github.com/user-attachments/assets/4a5bf1ff-c87d-4989-9a2e-bf9e0227ffb8)
+<img src="https://github.com/user-attachments/assets/74b3aa07-1b9f-4f83-a329-33b8eb8f2e7c" width="800" alt="5281723711241_ pic">
+<img src="https://github.com/user-attachments/assets/4a5bf1ff-c87d-4989-9a2e-bf9e0227ffb8" width="800" alt="5291723711243_ pic">
+
 
 - **Final Device Scenes Presentation**:
 <img src="https://github.com/user-attachments/assets/decd7a4b-506a-4040-80a3-0a8d1578b86b" width="260" alt="IMG_5332">
@@ -108,12 +106,12 @@ The Environmental Myths project brings together ancient Chinese myths and modern
 <img src="https://github.com/user-attachments/assets/beebdeff-c6b7-444e-83ab-64de6685faa9" width="260" alt="5261723710196_ pic">
 
 - **Operational Showcase**:
-![5031723217820_ pic](https://github.com/user-attachments/assets/dbe966c7-5353-4851-8843-a26cb2b585b5)
+<img src="https://github.com/user-attachments/assets/dbe966c7-5353-4851-8843-a26cb2b585b5" width="800" alt="5031723217820_ pic">
 
 
 ### Art Installation Setup
 - **Scene Stage Deployment**: Photographs of the scene stage setup at the exhibition site.
-![c6b02fe9f156e05483c8268d89080cd7](https://github.com/user-attachments/assets/802dfed4-387e-4af5-87ab-866f59adbb20)
+<img src="https://github.com/user-attachments/assets/802dfed4-387e-4af5-87ab-866f59adbb20" width="800" alt="c6b02fe9f156e05483c8268d89080cd7">
 
 - **Artistic Device Introduction**: [Learn more about the artistic installation](https://environmentalmyths.com/myths)
 
