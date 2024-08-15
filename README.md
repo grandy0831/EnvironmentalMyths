@@ -86,4 +86,22 @@ The Environmental Myths project brings together ancient Chinese myths and modern
 #### Important Notes:
 - Bullet points detailing critical considerations or warnings during the installation process.
 
+## Deployment and Exhibition
+
+### Weather Station Deployment
+- **Deployment Photos**: Visual documentation of the weather station setup in its operational environment. 
+  ![Deployment Photo](#link-to-deployment-photo)
+- **Operational Showcase**:
+![5031723217820_ pic](https://github.com/user-attachments/assets/dbe966c7-5353-4851-8843-a26cb2b585b5)
+
+
+### Art Installation Setup
+- **Scene Stage Deployment**: Photographs of the scene stage setup at the exhibition site.
+  ![Scene Stage Deployment](#link-to-scene-stage-deployment)
+- **Artistic Device Introduction**: A detailed link to further information about the artistic installation.
+  [Learn more about the artistic installation](#link-to-artistic-device-introduction)
+
+## Conclusion
+- Summarize the project's outcomes, the impact of the installations, and any conclusions drawn from the deployment and public interaction.
+- Highlight the key learnings and potential for future work or improvements.
 
