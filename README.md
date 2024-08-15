@@ -103,7 +103,7 @@ The Environmental Myths project brings together ancient Chinese myths and modern
 - **Scene Stage Deployment**: Photographs of the scene stage setup at the exhibition site.
   ![Scene Stage Deployment](#link-to-scene-stage-deployment)
 - **Artistic Device Introduction**: A detailed link to further information about the artistic installation.
-  [Learn more about the artistic installation](#link-to-artistic-device-introduction)
+  [Learn more about the artistic installation](https://environmentalmyths.com/myths)
 
 ## Conclusion
 - Summarize the project's outcomes, the impact of the installations, and any conclusions drawn from the deployment and public interaction.
