@@ -55,7 +55,7 @@ The Environmental Myths project brings together ancient Chinese myths and modern
 
 #### Environmental Monitoring Station Setup:
 - **Hardware Connection Diagram**:
-![PWS_bb](https://github.com/user-attachments/assets/dcd6bd3d-b52d-43ce-8784-afbd160a0db7)
+<img src="https://github.com/user-attachments/assets/dcd6bd3d-b52d-43ce-8784-afbd160a0db7" width="800" alt="PWS">
 - **Code Repository**: [Access the code here](https://github.com/grandy0831/EnvironmentalMyths/tree/main/Code/Final/PWS)
 - **Enclosure Printing Model**: [Download the 3D model here](https://www.thingiverse.com/thing:3615016#google_vignette)
 - **Internal Setup Images**:
@@ -64,20 +64,22 @@ The Environmental Myths project brings together ancient Chinese myths and modern
 
 #### Artistic Installation Setup:
 - **Hardware Connection Diagram**:
-![stage_bb](https://github.com/user-attachments/assets/07273b5f-267d-4651-b4f8-7be0fd7f8e24)
+<img src="https://github.com/user-attachments/assets/07273b5f-267d-4651-b4f8-7be0fd7f8e24" width="800" alt="stage_bb">
 
 - **Layer Model Functionality**:
   - **Top Layer (L0)**: Combines three devices.
   - **Scene Display (L1-1)**: Details the exhibition of scenes.
   - **Continuous Rotation Servo Space (L1-2)**: Houses the internal mechanics.
-<img src="https://github.com/user-attachments/assets/e412dfb8-10bc-44a4-be69-d6bb3a46d874" width="800" alt="5331723711250_ pic">
+  <img src="https://github.com/user-attachments/assets/e412dfb8-10bc-44a4-be69-d6bb3a46d874" width="800" alt="5331723711250_ pic">
 
   - **Rotation Platform (L2-1)**: Supports scene rotation, allowing space for wiring.
-<img src="https://github.com/user-attachments/assets/6be004a9-d969-4c26-9510-2d5d72bb0da6" width="800" alt="5321723711248_ pic">
+  <img src="https://github.com/user-attachments/assets/6be004a9-d969-4c26-9510-2d5d72bb0da6" width="800" alt="5321723711248_ pic">
+  
   - **Central Servo Fixation (L2-1.5)**: Holds the central servo controlling stage rotation.
-<img src="https://github.com/user-attachments/assets/1439c55e-5892-4c79-bcf1-83b46f6348ed" width="800" alt="5341723711592_ pic">
+  <img src="https://github.com/user-attachments/assets/1439c55e-5892-4c79-bcf1-83b46f6348ed" width="800" alt="5341723711592_ pic">
+  
   - **Display and Controls (L2-2-1, L2-2-2, L2-2-3)**: Accommodates the display, PIR sensor, switches, power sockets, and space for physical components and wiring.
-<img src="https://github.com/user-attachments/assets/cfe71bc4-a685-4fbb-9ea8-b8060a4231db" width="800" alt="5311723711247_ pic">
+  <img src="https://github.com/user-attachments/assets/cfe71bc4-a685-4fbb-9ea8-b8060a4231db" width="800" alt="5311723711247_ pic">
 
 - **Model Links**: [Access models here](https://github.com/grandy0831/EnvironmentalMyths/tree/main/Model/STAGE)
 - **Assembly Images by Layers**:
