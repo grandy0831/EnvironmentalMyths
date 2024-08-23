@@ -131,6 +131,5 @@ The Environmental Myths project brings together ancient Chinese myths and modern
 - **Artistic Device Introduction**: [Learn more about the artistic installation](https://environmentalmyths.com/myths)
 
 ## Conclusion
-- Summarize the project's outcomes, the impact of the installations, and any conclusions drawn from the deployment and public interaction.
-- Highlight the key learnings and potential for future work or improvements.
+This project has successfully integrated physical devices with artistic displays, creating an innovative installation that can monitor environmental data in real-time while dynamically presenting mythological stories. 
 
